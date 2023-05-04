@@ -1,0 +1,6 @@
+        <variant>
+	  <configItem>
+	    <name>dvorak-arivappa</name>
+	    <description>English (Dvorak, arivappa custom)</description>
+	  </configItem>
+	</variant>
